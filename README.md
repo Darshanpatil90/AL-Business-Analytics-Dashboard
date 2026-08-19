@@ -18,9 +18,11 @@ The AL Business Analytics Dashboard is an interactive Tableau dashboard designed
 * Data Visualization
 * Business Analytics
 * Data Analysis
+* 
+## 📊 Dashboard Preview
+![AL Business Analytics Dashboard](dashboard-screenshot.png)
 
 ## 📈 Dashboard Features
-
 * Interactive dashboard
 * KPI analysis
 * Trend analysis
